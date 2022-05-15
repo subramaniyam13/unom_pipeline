@@ -11,21 +11,5 @@
 "outer_dia (m)": 1,
 "inner_dia": 0.8,
 "thickness (m)": 0.2
-},
-
-{
-"Obj_ID": "P2",
-"length(m)": 82.25,
-"bearing (° W)": 115.8,
-"source_lat": 13.01062,
-"source_lon": 80.24029,
-"source_alt": 10.6,
-"dest_lat": 13.01,
-"dest_lon": 80.23842,
-"dest_alt": 11.7,
-"outer_dia (m)": 1,
-"inner_dia": 0.8,
-"thickness (m)": 0.2
 }
-
 
